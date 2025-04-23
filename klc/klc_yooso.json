@@ -1,0 +1,171 @@
+[
+  [
+    {
+      "c": "#d81c49",
+      "t": "#fff9f9",
+      "p": "FLAT"
+    },
+    "Esc",
+    {
+      "c": "#048700"
+    },
+    "!\n1\n\nF1",
+    "\"\n2\n\nF2",
+    "£\n3\n\nF3",
+    "$\n4\n\nF4",
+    "%\n5\n\nF5",
+    "^\n6\n\nF6",
+    "&\n7\n\nF7",
+    "*\n8\n\nF8",
+    "(\n9\n\nF9",
+    ")\n0\n\nF10",
+    "_\n-\n\nF11",
+    "+\n=\n\nF12",
+    {
+      "c": "#d81c49",
+      "w": 2
+    },
+    "Backspace",
+    "Del"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "c": "#3e489b"
+    },
+    "Q\n\n\nEsc",
+    "D\n\n\nBack",
+    "R\n\n\nRfrsh",
+    "W\n\n\nFwd",
+    "B",
+    "J\n\n\nPgUp",
+    "F\n\n\nHome",
+    "U\n\n\nUp",
+    "P\n\n\nEnd",
+    "Ç\n\n\nPgUp",
+    "Á\nÀ",
+    {
+      "c": "#048700"
+    },
+    "{\n[",
+    {
+      "x": 0.25,
+      "c": "#d39100",
+      "w": 1.25,
+      "h": 2,
+      "w2": 1.5,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "Enter",
+    {
+      "c": "#048700"
+    },
+    ":\n;\n\nBrwsr"
+  ],
+  [
+    {
+      "c": "#d81c49",
+      "w": 1.75
+    },
+    "Extend",
+    {
+      "c": "#3e489b"
+    },
+    "A\n\n\n;",
+    "S\n\n\n:",
+    "H\n\n\n\"",
+    {
+      "n": true
+    },
+    "T\n\n\n'",
+    "G",
+    "Y\n\n\nPgDn",
+    {
+      "n": true
+    },
+    "N\n\n\nLeft",
+    "E\n\n\nDn",
+    "O\n\n\nRight",
+    "I\n\n\nPgDn",
+    "Ã\nÂ\n\nMenu",
+    {
+      "c": "#048700"
+    },
+    "}\n]",
+    {
+      "x": 1.25,
+      "c": "#d39100"
+    },
+    "PgUp\n\n\nMedia"
+  ],
+  [
+    {
+      "c": "#d81c49",
+      "w": 1.25
+    },
+    "Shift",
+    {
+      "c": "#048700"
+    },
+    "|\n\\",
+    {
+      "c": "#3e489b"
+    },
+    "Z\n\n\nUndo",
+    "X\n\n\nCut",
+    "M\n\n\nCopy",
+    "C\n\n\nPaste",
+    "V",
+    "K\n\n\nEnt",
+    "L\n\n\nBspc",
+    "<\n,\n\nDel",
+    ">\n.\n\nPrScr",
+    "?\n/",
+    {
+      "c": "#d81c49",
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "c": "#d39100"
+    },
+    "↑\n\n\nVolUp",
+    "PgDn\n\n\nPlay"
+  ],
+  [
+    {
+      "c": "#d81c49",
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "c": "#3e489b",
+      "w": 6.25
+    },
+    "\n\n\nPlayPause",
+    {
+      "c": "#d81c49"
+    },
+    "Alt",
+    "Fn",
+    "Ctrl",
+    {
+      "c": "#d39100"
+    },
+    "←\n\n\nPrev",
+    "↓\n\n\nVolDn",
+    "→\n\n\nNext"
+  ]
+]
