@@ -1,3 +1,5 @@
+PKL portable keyboard layout. WORKMAN-BR layout (adapted with Ç and deadkeys for an international 105/106 key layout) for the E-YOOSO A68 keyboard (which has some weird scancodes like numpad scancodes everywhere). Nobody else in the world needs something this specific.
+
 # Normal state
 ![state0](https://github.com/user-attachments/assets/c04b60bf-093b-4ef2-8518-bd858bd65b00)
 
